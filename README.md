@@ -1,7 +1,13 @@
-Customer Shopping Behavior Analysis Project Overview This project analyzes customer shopping behavior using data from ~3,900 customers to uncover spending patterns, customer segments, age groups, and subscription behavior.
+The objective of this project was to analyze customer purchasing behavior, spending patterns, demographic segmentation, and subscription trends to identify high-value customer groups and revenue growth opportunities for an e-commerce business.
+
+Designed SQL queries to analyze customer purchase behavior and discount effectiveness
+Identified high-spending customers who utilized promotional discounts strategically
+Performed demographic segmentation based on age and subscription behavior
+Conducted spending pattern analysis using Python (Pandas, Matplotlib)
+Developed interactive Power BI dashboard to visualize revenue trends and customer segments
+Generated insights to support data-driven marketing and customer retention strategies
 
 Tools & Technologies
-
 Python (Pandas, NumPy)
 PostgreSQL
 SQL
